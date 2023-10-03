@@ -3,7 +3,7 @@
 Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi ou pensei em criar. [open source] Código aberto. todos os apps aqui criados são licenciados pela licença MIT
 
 
-# informação:  se for fazer um forc do repositório, ao menos deixar os créditos caso modifique o, s. software, s. 
+# informação:  se for fazer um forck do repositório, ao menos deixar os créditos caso modifique o, s. software, s. 
 
 
 # Eternal utilities v1.0
@@ -47,7 +47,7 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 * MD5: 76a83f0c7b8883a5b6f5986daafd90fc
 
 
-*SHA-256: db58399da4fc1510477fe02e6ba07b758b962bf833a088157390f6e91b2f8b9a
+* SHA-256: db58399da4fc1510477fe02e6ba07b758b962bf833a088157390f6e91b2f8b9a
 
 
 * [download, windows](https://github.com/azurejoga/meus-apps/releases/download/EternalSignature1.0/Eternal-Signature-windows.zip)
@@ -83,7 +83,7 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 * Mais de 30 idiomas para traduzir
 
 
-* com apenas um botão perto de você!
+*   com apenas um botão perto de você!
 
 
 * Não precisa criar conta, abrir navegador ou qualquer coisa assim!
@@ -110,13 +110,13 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 * MD5: 2d398b1d5b94c0c7edb89c19babd76b7
 
 
-*SHA-256: a95a4639cb1266c6b497ccc1574bb1ba304d40035c17e9439e0ba5bb67a1ab51
+* SHA-256: a95a4639cb1266c6b497ccc1574bb1ba304d40035c17e9439e0ba5bb67a1ab51
 
 
 * [download, windows apenas](https://github.com/azurejoga/meus-apps/releases/download/eternal-translate-keyboard/Eternal-translate-windows.zip)
 
 
-# aplicativos feito com [python](python.org) e interface gráfica  [WX python(wxpython.org)]
+# aplicativos feito com [python](python.org) e interface gráfica  [WX python](wxpython.org)
 
 
 # Programas licenciados pela licença MIT
