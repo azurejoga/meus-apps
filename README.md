@@ -1,4 +1,4 @@
-# Eternal utilities
+## Eternal utilities
 
 Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi ou pensei em criar. [open source] Código aberto. todos os apps aqui criados são licenciados pela licença MIT
 
@@ -116,7 +116,7 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 * [download, windows apenas](https://github.com/azurejoga/meus-apps/releases/download/eternal-translate-keyboard/Eternal-translate-windows.zip)
 
 
-## aplicativos feito com
+# aplicativos feito com
 
  [python.org](https://python.org/)
   e interface gráfica
