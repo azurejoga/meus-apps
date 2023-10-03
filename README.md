@@ -1,4 +1,4 @@
-#Eternal utilities
+# Eternal utilities
 
 Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi ou pensei em criar. [open source] Código aberto. todos os apps aqui criados são licenciados pela licença MIT
 
@@ -117,7 +117,8 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 
 
 ## aplicativos feito com
- [python](python.org) e interface gráfica  [WX python](wxpython.org)
+
+ [python](https://python.org) e interface gráfica  [WX python](https://wxpython.org)
 
 
 # Programas licenciados pela licença MIT
