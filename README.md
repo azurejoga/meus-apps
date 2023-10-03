@@ -118,7 +118,9 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 
 ## aplicativos feito com
 
- [python](https://python.org) e interface gráfica  [WX python](https://wxpython.org)
+ [python.org](https://python.org/)
+  e interface gráfica
+    [wxpython.org](https://wxpython.org)
 
 
 # Programas licenciados pela licença MIT
