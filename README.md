@@ -101,6 +101,9 @@ Aqui está os programas / jogos / qualquer outra coisa aleatória que desenvolvi
 * A um bug que faz com que ao digitar quando o rtradutor estiver ativado a digitação fica um pouco lenta.
 
 
+* [veja o problema aqui](https://github.com/azurejoga/meus-apps/issues/1)
+
+
 # Downloads e assinaturas.
 
 
